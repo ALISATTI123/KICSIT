@@ -32,16 +32,8 @@ Tools:
 ---
 
 ## Projects
-### Array Sum Using Pointers
-Program to calculate sum of array using pointers.
-
-### Factorial Program
-Finds factorial with validation using functions.
-
-### Odd Numbers Generator
-Generates 20 odd numbers starting from user input.
-
----
+* simple calculator 
+* pointers ,structures ,classes basic projects.
 
 ## Education
 fsc from (FAUJI FOUNDATION).
