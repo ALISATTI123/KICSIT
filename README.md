@@ -8,7 +8,7 @@ Student | C++ Learner | Future Software Developer
 - Currently learning: C++, Data Structures, Problem Solving
 - Goal: Become a professional Software Developer
 - Interested in: Programming, Algorithms, AI
-- Location: Vilnius, Lithuania
+- Location: PAKISTAN
 
 ---
 
