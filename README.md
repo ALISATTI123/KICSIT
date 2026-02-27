@@ -44,10 +44,8 @@ Generates 20 odd numbers starting from user input.
 ---
 
 ## Education
-fsc from fauji foundation
-bscs at kicsit
-
-
+fsc from (FAUJI FOUNDATION).
+bscs (KICSIT).
 ---
 
 ## Contact
