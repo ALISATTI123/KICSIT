@@ -22,8 +22,9 @@ Concepts:
 - OOP
 - Pointers
 - Arrays
-- Functions
-
+- Functions / file handling
+- Structure/classes
+- 
 Tools:
 - Git
 - GitHub
