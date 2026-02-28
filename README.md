@@ -36,7 +36,7 @@ Tools:
 * pointers ,structures ,classes basic projects.
 
 ## Education
-fsc from (FAUJI FOUNDATION).
+fsc (FAUJI FOUNDATION).
 bscs (KICSIT).
 ---
 
