@@ -1,12 +1,12 @@
 # Muhammad Ali
 
-Student | C++ Learner | Future Software Developer
+Student | C++ Learner |Inshallah  Future Software Developer
 
 ---
 
 ## About Me
 - Currently learning: C++, Data Structures, Problem Solving
-- Goal: Become a professional Software Developer
+- Goal: Inshallah  Become a professional Software Developer
 - Interested in: Programming, Algorithms, AI
 - Location: PAKISTAN
 
@@ -15,7 +15,7 @@ Student | C++ Learner | Future Software Developer
 ## Skills
 Languages:
 - C++
-- HTML
+- HTML/css
 - Basic Python
 
 Concepts:
@@ -29,7 +29,7 @@ Tools:
 - Git
 - GitHub
 - VS Code
-
+- dev c++
 ---
 
 ## Projects
