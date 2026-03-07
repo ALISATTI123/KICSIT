@@ -1,6 +1,6 @@
 # Muhammad Ali
 
-Student | C++ Learner |Inshallah  Future Software Developer
+Student | C++ Learner | Inshallah  Future Software Developer
 
 ---
 
