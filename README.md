@@ -33,7 +33,7 @@ Tools:
 ---
 
 ## Projects
-* simple calculator 
+* ATM MANAGEMENT SYSTEM
 * pointers ,structures ,classes basic projects.
 
 ## Education
